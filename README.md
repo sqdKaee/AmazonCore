@@ -1,0 +1,2 @@
+# amazoncore
+best plugin ever
